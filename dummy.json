@@ -1,0 +1,43 @@
+[
+  {
+    "eventName": "Season1",
+    "eventType": "Land Grabing",
+    "startData": "10/04/2019",
+    "endDate": "30/04/2019",
+    "status": "active"
+  },
+  {
+    "eventName": "Season1",
+    "eventType": "Land Mining",
+    "endDate": "30/05/2019",
+    "status": "pending"
+  },
+  {
+    "eventName": "Season2",
+    "eventType": "Land Grabing",
+    "startData": "10/04/2018",
+    "endDate": "30/04/2019",
+    "status": "Finished"
+  },
+  {
+    "eventName": "Season2",
+    "eventType": "Land Mining",
+    "startData": "10/04/2018",
+    "endDate": "30/04/2018",
+    "status": "Finished"
+  },
+  {
+    "eventName": "Season3",
+    "eventType": "Land Grabing",
+    "startData": "10/04/2017",
+    "endDate": "30/04/2019",
+    "status": "Finished"
+  },
+  {
+    "eventName": "Season4",
+    "eventType": "Land Mining",
+    "startData": "10/04/2017",
+    "endDate": "30/04/2019",
+    "status": "Finished"
+  }
+]
